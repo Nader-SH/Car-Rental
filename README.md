@@ -1,2 +1,2 @@
-# Car-Rental-
+# Car-Rental
 Car rental website
